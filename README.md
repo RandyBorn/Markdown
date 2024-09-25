@@ -18,6 +18,8 @@ _KURSIV_
 -Zweiter Punkt
 
 
+![ ALT TEXT](https://picsum.photos/300/300)
+
 
 
 
@@ -25,6 +27,10 @@ _KURSIV_
 | ---------| ----------------------------|  
 |HTML      | Struktur von Webseiten      |
 |CSS       | Gestaltung von Webseiten    |
+
+'''CSS 
+h1 ( backround-Color: red
+´´´
 
 
 
