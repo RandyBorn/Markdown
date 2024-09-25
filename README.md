@@ -17,9 +17,14 @@ _KURSIV_
 -Erster Punkt
 -Zweiter Punkt
 
-cheat -s ssh
 
-|
+
+
+
+| Spalte 1 | Beschreibung                |
+| ---------| ----------------------------|  
+|HTML      | Struktur von Webseiten      |
+|CSS       | Gestaltung von Webseiten    |
 
 
 
