@@ -1,4 +1,4 @@
-# Markdown cheat cheat
+# Markdown Cheat
 
 # ´H1- Überschrift
 
@@ -17,8 +17,12 @@ _KURSIV_
 -Erster Punkt
 -Zweiter Punkt
 
+**_fett und kursiv_**
+
+
 
 ![ ALT TEXT](https://picsum.photos/300/300)
+
 
 
 
@@ -31,6 +35,8 @@ _KURSIV_
 '''CSS 
 h1 ( backround-Color: red
 ´´´
+> "Glaube an dich selbst."
+<p style="color:red text-allgin:center"
 
 
 
