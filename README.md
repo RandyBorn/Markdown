@@ -38,7 +38,14 @@ h1 ( backround-Color: red
 > "Glaube an dich selbst."
 <p style="color:red text-allgin
 
+| command| description | example |
+|:-------| :-----------:|------: |
+|cd      | change direction|      |
 
+
+<!--`backtick shift + '  ( LINKS NEBEN DER LÖSCHTASTE )
+
+`hallo ich bin hier!`
 
 
 
