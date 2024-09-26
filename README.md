@@ -25,8 +25,6 @@ _KURSIV_
 
 
 
-
-
 | Spalte 1 | Beschreibung                |
 | ---------| ----------------------------|  
 |HTML      | Struktur von Webseiten      |
@@ -42,12 +40,12 @@ h1 ( backround-Color: red
 |:-------| :-----------:|------: |
 |cd      | change direction|      |
 
+´hallo ich bin hier!`
 
-<!--`backtick shift + '  ( LINKS NEBEN DER LÖSCHTASTE )
+
+<!--`backtick shift + '  ( LINKS NEBEN DER LÖSCHTASTE 
 
 `hallo ich bin hier!`
-
-
 
 
 
