@@ -36,8 +36,7 @@ _KURSIV_
 h1 ( backround-Color: red
 ´´´
 > "Glaube an dich selbst."
-<p style="color:red text-allgin:center"
-
+<p style="color:red text-allgin
 
 
 
